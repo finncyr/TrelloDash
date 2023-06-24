@@ -1,0 +1,232 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  padding: 10px;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.header-bar {
+  width: 1440px;
+  height: 55px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.header {
+  background: #000000;
+  width: 1440px;
+  height: 55px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.trello-dash {
+  color: #ffffff;
+  text-align: left;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.project-xxxx {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Inter", sans-serif;
+  position: absolute;
+  left: 662px;
+  top: 20px;
+}
+.raumplan-anzeigen {
+  color: #ffffff;
+  text-align: left;
+  font: 600 15px "Inter", sans-serif;
+  position: absolute;
+  left: 1284px;
+  top: 20px;
+}
+.progress-block {
+  width: 433px;
+  height: 140px;
+  position: absolute;
+  left: 50px;
+  top: 92px;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 433px;
+  height: 140px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.completion-of-tasks {
+  color: #000000;
+  text-align: left;
+  font: 600 16px "Inter", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 17px;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 369px;
+  height: 41px;
+  position: absolute;
+  left: 32px;
+  top: 50px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #000000;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 200px;
+  height: 41px;
+  position: absolute;
+  left: 32px;
+  top: 50px;
+}
+._12-23-tasks-done {
+  color: #000000;
+  text-align: left;
+  font: 600 16px "Inter", sans-serif;
+  position: absolute;
+  left: 144px;
+  top: 105px;
+}
+.spi-mini-block {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  padding: 8px 26px 8px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 132px;
+  height: 150px;
+  position: absolute;
+  left: 50px;
+  top: 242px;
+  overflow: hidden;
+}
+.spi {
+  color: #000000;
+  text-align: left;
+  font: 600 32px "Inter", sans-serif;
+  position: relative;
+}
+._1-103 {
+  color: #1bae18;
+  text-align: center;
+  font: 600 32px "Inter", sans-serif;
+  position: relative;
+}
+.sv-block {
+  width: 132px;
+  height: 150px;
+  position: absolute;
+  left: 351px;
+  top: 242px;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 132px;
+  height: 150px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sv {
+  color: #000000;
+  text-align: left;
+  font: 600 32px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 22px);
+  top: 8px;
+}
+._1-2 {
+  color: #1bae18;
+  text-align: left;
+  font: 600 32px "Inter", sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 75px;
+}
+.ru-mini-block {
+  width: 132px;
+  height: 150px;
+  position: absolute;
+  left: 200px;
+  top: 242px;
+}
+.ru {
+  color: #000000;
+  text-align: center;
+  font: 600 32px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 23px);
+  top: calc(50% - 67px);
+}
+._86 {
+  color: #e9770f;
+  text-align: center;
+  font: 600 32px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 35px);
+  top: 75px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 433px;
+  height: 300px;
+  position: absolute;
+  left: 49px;
+  top: 402px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 887px;
+  height: 610px;
+  position: absolute;
+  left: 503px;
+  top: 92px;
+}
+.zones {
+  color: #000000;
+  text-align: left;
+  font: 600 16px "Inter", sans-serif;
+  position: absolute;
+  left: 526px;
+  top: 109px;
+}
